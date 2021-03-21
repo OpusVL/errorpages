@@ -38,7 +38,7 @@ services:
       - proxy
 ```
 
-Add the middleware to you containers deploy label:
+Add the middleware to your containers deploy label:
 
 ```yaml
     deploy:
